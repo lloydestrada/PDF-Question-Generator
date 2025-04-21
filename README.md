@@ -30,9 +30,9 @@ This is a personal/learning project. While it works, the AI output and system be
 - No database or file management (yet)
 - Text extraction from PDFs is assumed to be handled on the frontend
 
-##Test File
+## Test File
 [test.pdf](https://github.com/user-attachments/files/19833089/test.pdf)
 ## Example Output
-![image](https://github.com/user-attachments/assets/b7ccde91-0524-48aa-b19a-aec4c1607960)
+![image](https://github.com/user-attachments/assets/eee191f8-5343-446f-92ff-5833d72e4de4)
 
 
