@@ -1,4 +1,4 @@
-# PDF-QnA-Generator
+# PDF-Question-Generator
 
 An experimental AI-powered tool that takes content from PDF files (like study notes, textbooks, or lectures) and generates quiz-style questions to help users review and understand key ideas.
 ## Disclaimer
