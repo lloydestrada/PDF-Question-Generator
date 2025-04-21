@@ -8,7 +8,7 @@ function App() {
   };
 
   const handleSubmit = () => {
-    // This will be used to send file to backend
+    
     console.log("Submitting:", pdfFile);
   };
 

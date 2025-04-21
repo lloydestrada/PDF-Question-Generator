@@ -1,6 +1,6 @@
 module.exports = {
   content: [
-    "./src/**/*.{html,js,jsx,ts,tsx}", // Add this to make sure Tailwind looks for class names in your JS files
+    "./src/**/*.{html,js,jsx,ts,tsx}",
   ],
   theme: {
     extend: {
