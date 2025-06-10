@@ -42,19 +42,19 @@ This is a personal/learning project. While it works, the AI output and system be
 
 ### 1. Clone the repository
 
--git clone https://github.com/your-username/your-repo-name.git  
+- git clone https://github.com/your-username/your-repo-name.git  
 cd your-repo-name  
 
 ### 2. Install the backend dependencies
--cd back
--npm install
+- cd back
+- npm install
 
 ### 4. Run the backend server
--node server.js
+- node server.js
 
 ### 5. Run the frontend
--npm install
--npm start
+- npm install
+- npm start
 
 ### 6. Access the application
--- http://localhost:3000
+- http://localhost:3000
