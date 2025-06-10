@@ -38,23 +38,16 @@ This is a personal/learning project. While it works, the AI output and system be
 
 ---
 
-## How to Run Locally
+### 1. 📥 Clone the Repository
 
-### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
 
-- git clone https://github.com/your-username/your-repo-name.git  
-cd your-repo-name  
+cd back
+npm install
 
-### 2. Install the backend dependencies
-- cd back
-- npm install
+node server.js
 
-### 4. Run the backend server
-- node server.js
-
-### 5. Run the frontend
-- npm install
-- npm start
-
-### 6. Access the application
-- http://localhost:3000
+npm install
+npm start
