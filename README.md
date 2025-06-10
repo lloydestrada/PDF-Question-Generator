@@ -31,7 +31,30 @@ This is a personal/learning project. While it works, the AI output and system be
 
 ## Test File
 [test.pdf](https://github.com/user-attachments/files/19833089/test.pdf)
+
 ## Example Output
 ![image](https://github.com/user-attachments/assets/eee191f8-5343-446f-92ff-5833d72e4de4)
 
 
+---
+
+## How to Run Locally
+
+### 1. Clone the repository
+
+-git clone https://github.com/your-username/your-repo-name.git  
+cd your-repo-name  
+
+### 2. Install the backend dependencies
+-cd back
+-npm install
+
+### 4. Run the backend server
+-node server.js
+
+### 5. Run the frontend
+-npm install
+-npm start
+
+### 6. Access the application
+-- http://localhost:3000
